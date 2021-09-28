@@ -34,6 +34,7 @@ seo:
       value: images/plant4-lg.jpg
       relativeUrl: true
 template: product
+featured: true
 ---
 
 # Cras molestie
