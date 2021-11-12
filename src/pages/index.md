@@ -9,7 +9,7 @@ sections:
     content: |
       # Payless Tyres & Brakes
 
-      Here to serve the local community for all your motoring needs
+      Here to serve the local community, for all your motoring needs
     actions:
       - title: See all items
         url: /store
